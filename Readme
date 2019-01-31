@@ -1,0 +1,9 @@
+This repo contains code for modelling the coupled surface and volume growth of shells in a finite strain kinematical framework.
+
+The corresponding paper is 
+
+arXiv:1901.00497 [q-bio.QM]. 
+S. Rudraraju, D.E. Moulton, R. Chirat, A. Goriely and K. Garikipati, "A computational framework for the morpho-elastic 
+development of molluskan shells by surface and volume growth".
+
+Please consider citing the above paper, if you use this repo.
